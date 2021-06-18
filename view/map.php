@@ -85,18 +85,18 @@ include '../partials/header_connected.php'
                     <div class="liste">
                         <h3>Type of boats</h3>
                         <ul>
-                            <li><a href="#0" class="header__link" >Yachts à Moteur.</a></li>
-                            <li><a href="#0" class="header__link" >Yachts à Voile.</a></li>
-                            <li><a href="#0" class="header__link" >Catamarans.</a></li>
-                            <li><a href="#0" class="header__link" >Catamarans à Moteur.</a></li>
-                            <li><a href="#0" class="header__link" >Goélettes.</a></li>
-                            <li><a href="#0" class="header__link" >Voiliers à Moteur.</a></li>
-                            <li><a href="#0" class="header__link" >Yachts de luxe à vendre.</a></li>
+                            <li><a href="#0" class="header__link" >Motor Yachts</a></li>
+                            <li><a href="#0" class="header__link" >Sailing Yachts</a></li>
+                            <li><a href="#0" class="header__link" >Catamarans</a></li>
+                            <li><a href="#0" class="header__link" >Motor Catamarans</a></li>
+                            <li><a href="#0" class="header__link" >Gulets</a></li>
+                            <li><a href="#0" class="header__link" >Motor Sailboats</a></li>
+                            <li><a href="#0" class="header__link" >Luxury Yachts to sale</a></li>
                             <li><a href="#0" class="header__link" >Mega Yachts (Private)</a></li>
                         </ul>
                     </div>
                     <div class="pub">
-                        <h3>Some Ad</h3>
+                        <h3>Ad</h3>
                         <img src="https://media.giphy.com/media/aDa9iiLZAUTqU/giphy.gif">
                     </div>
                     <div class="pub">

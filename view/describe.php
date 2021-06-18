@@ -144,7 +144,7 @@ include '../partials/header_connected.php'
                           <img src="/img/captain.png">
                         </div>
                         <div class="card-body">
-                          <h4>Captain Bonnard</h4>
+                          <h4>Captain America</h4>
                           <h5>Post, language, age</h5>
                           <p class="p-card">Amet, consectetur adipisicing elit. Dignissimos, ipsa.</p>
                         </div>
@@ -156,7 +156,7 @@ include '../partials/header_connected.php'
                           <img src="/img/captain2.png">
                         </div>
                         <div class="card-body">
-                          <h4>Captain T20</h4>
+                          <h4>Captain World</h4>
                           <h5>Post, language, age</h5>
                           <p class="p-card">Consectetur adipisicing elit. Dignissimos, ipsa.</p>
                         </div>
@@ -168,7 +168,7 @@ include '../partials/header_connected.php'
                           <img src="/img/captain1.png">
                         </div>
                       <div class="card-body">
-                        <h4>Captain Max</h4>
+                        <h4>Captain Doe</h4>
                         <h5>Post, language, age</h5>
                         <p class="p-card">Ipsum dolor sit amet, consectetur adipisicing elit.</p>
                       </div>
@@ -180,7 +180,7 @@ include '../partials/header_connected.php'
                           <img src="/img/sailor.png">
                         </div>
                         <div class="card-body">
-                          <h4>Sailor Lélou</h4>
+                          <h4>Sailor Moon</h4>
                           <h5>Post, language, age</h5>
                           <p class="p-card">Lorem dolor sit amet, consectetur adipisicing elit.</p>
                         </div>
